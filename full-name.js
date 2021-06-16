@@ -8,4 +8,4 @@ student = {
   id: 918552
 }
 
-console.log(fullName(student))
+console.log(fullName(student));
